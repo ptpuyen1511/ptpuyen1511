@@ -2,7 +2,7 @@ Hi there 👋
 
 😉 I am Uyen 
 
-🌱 I’m currently learning Computer Science
+🌱 I am a Master Student at VNUHCM-University of Science
 
 📫 You can reach me at:
 <p align="center">
