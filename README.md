@@ -1,10 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-### 😉 I am Uyen 
+😉 I am Uyen 
 
-### 🌱 I’m currently learning Computer Science
+🌱 I’m currently learning Computer Science
 
-### 📫 You can reach me at:
+📫 You can reach me at:
 <p align="center">
 	<a href="https://github.com/ptpuyen1511"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 	<a href="https://twitter.com/ptpuyen1511"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
