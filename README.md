@@ -6,7 +6,6 @@ Hi there 👋
 
 📫 You can reach me at:
 <p align="center">
-	<a href="https://github.com/ptpuyen1511"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 	<a href="https://twitter.com/ptpuyen1511"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/ptpuyen1511"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
