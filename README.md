@@ -2,7 +2,7 @@ Hi there 👋
 
 😉 I am Uyen 
 
-🌱 I am a Master's Student at VNUHCM-University of Science
+🌱 I am a Master's Student at University of Science - VNUHCM
 
 📫 You can reach me at:
 <p align="center">
