@@ -6,7 +6,7 @@ Hi there 👋
 
 📫 You can reach me at:
 <p align="center">
-	<a href="https://twitter.com/ptpuyen1511"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+	<a href="https://twitter.com/ptpuyen1511"><img src="https://img.shields.io/badge/@ptpuyen1511--_.svg?style=social&logo=X" alt="X"></a>
 	<a href="https://www.linkedin.com/in/ptpuyen1511"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="mailto:ptpuyen1511@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
 </p>
