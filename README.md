@@ -2,8 +2,6 @@ Hi there 👋
 
 😉 I am Uyen 
 
-💻 I’m currently working @ FIT-HCMUS
-
 📫 You can reach me at:
 <p align="center">
 	<a href="https://twitter.com/ptpuyen1511"><img src="https://img.shields.io/badge/@ptpuyen1511--_.svg?style=social&logo=X" alt="X"></a>
